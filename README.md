@@ -12,11 +12,11 @@ https://blogs.msdn.microsoft.com/carlnol/2013/02/08/hadoop-net-hdfs-file-access/
 
 *Visual Studio
 
-*JDK home
+*JDK home (JAVA_HOME)
 
-*Hadoop installation 
+*Hadoop installation (HADOOP_HOME)
 
-*Arrange your include directories accordingly
+*Arrange your include directories accordingly (JAVA_HOME\Include etc.)
 
 # Sample
   {

@@ -4,8 +4,9 @@ HDFS file access for .Net and native code on Windows System.
 # Original code  
 
 https://code.msdn.microsoft.com/windowsdesktop/Hadoop-Net-HDFS-File-Access-18e9bbee
- https://blogs.msdn.microsoft.com/carlnol/2013/02/08/hadoop-net-hdfs-file-access/
-.
+
+https://blogs.msdn.microsoft.com/carlnol/2013/02/08/hadoop-net-hdfs-file-access/
+
 
 # To Be able to Build;
 

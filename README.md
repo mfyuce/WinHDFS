@@ -11,12 +11,15 @@ https://blogs.msdn.microsoft.com/carlnol/2013/02/08/hadoop-net-hdfs-file-access/
 # To Be able to Build;
 
 -Visual Studio
+
 -JDK home
+
 -Hadoop installation 
+
 -Arrange your include directories accordingly
 
 # Sample
-
+  
   using (HdfsFileSystem hdfsSystem = HdfsFileSystem.Connect("<host>", 9000,"hadoop"))
    {
        Console.WriteLine("TESTING HdfsFileStream:");
@@ -36,3 +39,4 @@ https://blogs.msdn.microsoft.com/carlnol/2013/02/08/hadoop-net-hdfs-file-access/
            //..
        } 
    }
+  

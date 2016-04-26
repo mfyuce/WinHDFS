@@ -1,0 +1,16 @@
+C:\Users\MYUCE\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\Hadoop .Net HDFS File Access\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\obj\x64\Debug\WinHdfsManagedTest.csprojResolveAssemblyReference.cache
+C:\Users\MYUCE\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\Hadoop .Net HDFS File Access\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManagedTest.exe.config
+C:\Users\MYUCE\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\Hadoop .Net HDFS File Access\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManagedTest.exe
+C:\Users\MYUCE\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\Hadoop .Net HDFS File Access\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManagedTest.pdb
+C:\Users\MYUCE\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\Hadoop .Net HDFS File Access\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManaged.dll
+C:\Users\MYUCE\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\Hadoop .Net HDFS File Access\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManaged.pdb
+C:\Users\MYUCE\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\Hadoop .Net HDFS File Access\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\obj\x64\Debug\WinHdfsManagedTest.exe
+C:\Users\MYUCE\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\Hadoop .Net HDFS File Access\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\obj\x64\Debug\WinHdfsManagedTest.pdb
+E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManagedTest.exe.config
+E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManagedTest.exe
+E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManagedTest.pdb
+E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManaged.dll
+E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\bin\x64\Debug\WinHdfsManaged.pdb
+E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\obj\x64\Debug\WinHdfsManagedTest.csprojResolveAssemblyReference.cache
+E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\obj\x64\Debug\WinHdfsManagedTest.exe
+E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManagedTest\obj\x64\Debug\WinHdfsManagedTest.pdb

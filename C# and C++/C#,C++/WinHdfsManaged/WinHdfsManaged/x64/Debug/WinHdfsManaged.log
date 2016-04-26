@@ -1,0 +1,41 @@
+﻿Build started 4/26/2016 6:38:59 PM.
+     1>Project "E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManaged\WinHdfsManaged.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\WinHdfsManaged.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /errorReport:prompt /clr:nostdlib Stdafx.cpp
+         Stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\WinHdfsManaged.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp ConfigureIsotope.cpp HdfsFileInfoEntry.cpp HdfsFileStream.cpp HdfsFileInfoEntries.cpp HdfsFileHandle.cpp HdfsFileSystem.cpp
+         AssemblyInfo.cpp
+     1>AssemblyInfo.cpp(40): warning C4947: 'RequestMinimum' : marked as obsolete
+                 Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+         ConfigureIsotope.cpp
+         HdfsFileInfoEntry.cpp
+         HdfsFileStream.cpp
+         HdfsFileInfoEntries.cpp
+         HdfsFileHandle.cpp
+         HdfsFileSystem.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"x64\Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\x64\Debug\WinHdfsManaged.dll" /INCREMENTAL /NOLOGO winhdfsnative.lib jvm.lib jawt.lib Delayimp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Delayimp.lib /DELAYLOAD:jvm.dll /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\x64\Debug\WinHdfsManaged.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X64 /DLL x64\Debug\app.res
+         x64\Debug\AssemblyInfo.obj
+         x64\Debug\ConfigureIsotope.obj
+         x64\Debug\HdfsFileInfoEntry.obj
+         x64\Debug\HdfsFileStream.obj
+         x64\Debug\Stdafx.obj
+         x64\Debug\HdfsFileInfoEntries.obj
+         x64\Debug\HdfsFileHandle.obj
+         x64\Debug\HdfsFileSystem.obj
+         "x64\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+     1>HdfsFileSystem.obj : warning LNK4248: unresolved typeref token (01000010) for 'hdfsFile_internal'; image may not run
+     1>HdfsFileHandle.obj : warning LNK4248: unresolved typeref token (0100000D) for 'hdfsFile_internal'; image may not run
+     1>HdfsFileStream.obj : warning LNK4248: unresolved typeref token (01000012) for 'hdfsFile_internal'; image may not run
+     1>HdfsFileSystem.obj : warning LNK4248: unresolved typeref token (01000011) for 'hdfs_internal'; image may not run
+     1>HdfsFileHandle.obj : warning LNK4248: unresolved typeref token (0100000E) for 'hdfs_internal'; image may not run
+     1>HdfsFileStream.obj : warning LNK4248: unresolved typeref token (01000013) for 'hdfs_internal'; image may not run
+         WinHdfsManaged.vcxproj -> E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\x64\Debug\WinHdfsManaged.dll
+     1>Done Building Project "E:\Git_Mehmet\github\WinHDFS\C# and C++\C#,C++\WinHdfsManaged\WinHdfsManaged\WinHdfsManaged.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.27

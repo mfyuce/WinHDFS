@@ -19,7 +19,8 @@ https://blogs.msdn.microsoft.com/carlnol/2013/02/08/hadoop-net-hdfs-file-access/
 *Arrange your include directories accordingly (JAVA_HOME\Include etc.)
 
 # Sample
-  {
+   
+   
   
     using (HdfsFileSystem hdfsSystem = HdfsFileSystem.Connect("<host>", 9000,"hadoop"))
      {
@@ -41,5 +42,6 @@ https://blogs.msdn.microsoft.com/carlnol/2013/02/08/hadoop-net-hdfs-file-access/
          } 
      } 
      
-   }
+     
+     
   

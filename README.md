@@ -1,5 +1,5 @@
 # WinHDFS
-HDFS file access enabler for .Net and native codes. 
+HDFS file access for .Net and native code on Windows System. 
 
 # Original code  
 
